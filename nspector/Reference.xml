@@ -4971,5 +4971,43 @@
       </SettingValues>
       <SettingMasks />
     </CustomSetting>
+    <CustomSetting>
+      <UserfriendlyName>Virtual Reality - Variable Rate Super Sampling Compatibility</UserfriendlyName>
+      <HexSettingID>0x00D5E9C6</HexSettingID>
+      <GroupName>Other</GroupName>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>No</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Yes</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+    </CustomSetting>
+    <CustomSetting>
+      <UserfriendlyName>Virtual Reality - Variable Rate Super Sampling</UserfriendlyName>
+      <HexSettingID>0x00D5E9C7</HexSettingID>
+      <GroupName>Other</GroupName>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Off</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Always On</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Adaptive</UserfriendlyName>
+          <HexValue>0x00000002</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Custom</UserfriendlyName>
+          <HexValue>0x00000003</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+    </CustomSetting>
   </Settings>
 </CustomSettingNames>
